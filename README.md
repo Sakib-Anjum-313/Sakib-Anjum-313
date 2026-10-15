@@ -105,19 +105,6 @@ I also use **OpenAI Codex, OpenCode, and Claude Code** extensively in real devel
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sakib-Anjum-313&show_icons=true&hide_border=true&rank_icon=github" alt="Sakib's GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib-Anjum-313&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sakib-Anjum-313&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
 ## 🎯 What I Enjoy Building
 
 - Production-ready full-stack applications
